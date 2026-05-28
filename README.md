@@ -9,7 +9,7 @@ Hey. I'm NK. I like drawing, coding, collecting consoles, surfing the indie web,
 
 #### ✦ TODO:  
 - [X] finally make a GitHub page
-- [ ] publish neocities site
+- [ ] publish nekoweb site
 - [X] integrate site with Git
 - [ ] mess around in PHP
 
