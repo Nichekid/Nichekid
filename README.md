@@ -2,7 +2,7 @@
 
 Hey. I'm NK. I like drawing, coding, collecting consoles, surfing the indie web, and listening to CD's. 
 
-- budding fullstack dev 
+- budding software dev 
 - console homebrew enthusiast
 - character artist 
 - neurodivergent
